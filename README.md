@@ -1,3 +1,3 @@
 # helloworld!!!
-# cheking the upstream
+# checking the upstream
 sample repository for learning git hub

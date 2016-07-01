@@ -10,5 +10,5 @@ RUN pip install Flask
 COPY test.py /src/test.py
 COPY requirements.txt /src/requirements.txt
 
-EXPOSE  8000
-CMD ["python", "/src/test.py", "-p 8000"]
+EXPOSE  80
+CMD ["python", "/src/test.py", "-p 80"]
